@@ -2,10 +2,12 @@
 /               https://github.com/typescript-eslint/typescript-eslint
 /estree         https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/typescript-estree
 /parser         https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/typescript-eslint-parser
-/eslint-plugin  https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin-typescript
+# /eslint-plugin  https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin-typescript
 
 # Spectrum
 /chat   https://spectrum.chat/typescript-eslint
 
 # Bug Reports
-/report-issue   https://github.com/typescript-eslint/typescript-eslint/issues/new
+/report-issue         https://github.com/typescript-eslint/typescript-eslint/issues/new/choose
+/estree/report-issue  https://github.com/typescript-eslint/typescript-eslint/issues/new?template=typescript-estree.md
+/parser/report-issue  https://github.com/typescript-eslint/typescript-eslint/issues/new?template=typescript-eslint-parser.md
