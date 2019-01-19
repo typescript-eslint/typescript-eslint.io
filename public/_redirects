@@ -1,13 +1,18 @@
-# Source
 /               https://github.com/typescript-eslint/typescript-eslint
-/estree         https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/typescript-estree
-/parser         https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/typescript-eslint-parser
-# /eslint-plugin  https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin-typescript
+/report-issue   https://github.com/typescript-eslint/typescript-eslint/issues/new/choose
 
-# Spectrum
-/chat   https://spectrum.chat/typescript-eslint
-
-# Bug Reports
-/report-issue         https://github.com/typescript-eslint/typescript-eslint/issues/new/choose
+/estree               https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/typescript-estree
 /estree/report-issue  https://github.com/typescript-eslint/typescript-eslint/issues/new?template=typescript-estree.md
-/parser/report-issue  https://github.com/typescript-eslint/typescript-eslint/issues/new?template=typescript-eslint-parser.md
+
+/parser         https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/typescript-eslint-parser
+/parser/report-issue          https://github.com/typescript-eslint/typescript-eslint/issues/new?template=typescript-eslint-parser.md
+
+/eslint-plugin                https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin-typescript
+/eslint-plugin/report-issue   https://github.com/typescript-eslint/typescript-eslint/issues/new?template=eslint-plugin-typescript.md
+
+/plugin-tslint                https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin-tslint
+/plugin-tslint/report-issue   https://github.com/typescript-eslint/typescript-eslint/issues/new?template=eslint-plugin-tslint.md
+
+/chat   https://spectrum.chat/typescript-eslint
+/site   https://github.com/typescript-eslint/typescript-eslint.io
+/edit   https://github.com/typescript-eslint/typescript-eslint.io/edit/master/public/_redirects
