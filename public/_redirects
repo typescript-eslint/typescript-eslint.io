@@ -13,6 +13,5 @@
 /plugin-tslint                https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin-tslint
 /plugin-tslint/report-issue   https://github.com/typescript-eslint/typescript-eslint/issues/new?template=eslint-plugin-tslint.md
 
-/chat   https://spectrum.chat/typescript-eslint
 /site   https://github.com/typescript-eslint/typescript-eslint.io
 /edit   https://github.com/typescript-eslint/typescript-eslint.io/edit/master/public/_redirects
