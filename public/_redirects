@@ -4,10 +4,10 @@
 /estree               https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/typescript-estree
 /estree/report-issue  https://github.com/typescript-eslint/typescript-eslint/issues/new?template=typescript-estree.md
 
-/parser         https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/typescript-eslint-parser
+/parser         https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/parser
 /parser/report-issue          https://github.com/typescript-eslint/typescript-eslint/issues/new?template=typescript-eslint-parser.md
 
-/eslint-plugin                https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin-typescript
+/eslint-plugin                https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin
 /eslint-plugin/report-issue   https://github.com/typescript-eslint/typescript-eslint/issues/new?template=eslint-plugin-typescript.md
 
 /plugin-tslint                https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin-tslint
